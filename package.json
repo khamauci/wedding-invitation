@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@types/uuid": "^9.0.8",
+    "firebase": "^10.8.0",
+    "pug": "^3.0.2",
+    "uuid": "^9.0.1"
+  },
+  "name": "undangan-main",
+  "description": "![Thumbnail](/assets/images/banner.png) ![pages-build-deployment](https://github.com/dewanakl/undangan/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main) ![Hits](https://badge.dikit.my.id/undangan?label=hits&color=brightgreen)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
